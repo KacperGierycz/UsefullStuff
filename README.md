@@ -10,4 +10,6 @@ string algorithms for daily use https://medium.com/javarevisited/top-21-string-p
 
 many java questions https://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html#axzz5ntvpdIs3
 
+regex mysql https://www.tutorialspoint.com/mysql/mysql-regexps.htm
+
 # UsefullStuff
