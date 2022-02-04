@@ -8,4 +8,6 @@ great text of how to write good program https://www3.ntu.edu.sg/home/ehchua/prog
 
 string algorithms for daily use https://medium.com/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45
 
+many java questions https://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html#axzz5ntvpdIs3
+
 # UsefullStuff
