@@ -6,4 +6,6 @@ Coment coment coment coment!!!!
 
 great text of how to write good program https://www3.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html
 
+string algorithms for daily use https://medium.com/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45
+
 # UsefullStuff
