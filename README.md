@@ -13,5 +13,6 @@ many java questions https://javarevisited.blogspot.com/2015/10/133-java-intervie
 regex mysql https://www.tutorialspoint.com/mysql/mysql-regexps.htm
 
 SQL exercise the shiet https://www.w3resource.com/index.php
+SQL nice and smoth https://sqlbolt.com/
 
 # UsefullStuff
