@@ -15,4 +15,6 @@ regex mysql https://www.tutorialspoint.com/mysql/mysql-regexps.htm
 SQL exercise the shiet https://www.w3resource.com/index.php
 SQL nice and smoth https://sqlbolt.com/
 
+koushik mikroservices https://github.com/koushikkothagal/spring-boot-microservices-workshop
+
 # UsefullStuff
