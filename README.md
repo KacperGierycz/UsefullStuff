@@ -17,4 +17,6 @@ SQL nice and smoth https://sqlbolt.com/
 
 koushik mikroservices https://github.com/koushikkothagal/spring-boot-microservices-workshop
 
+how to coding interview https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
+
 # UsefullStuff
