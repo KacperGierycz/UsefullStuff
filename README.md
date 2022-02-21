@@ -19,4 +19,6 @@ koushik mikroservices https://github.com/koushikkothagal/spring-boot-microservic
 
 how to coding interview https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
 
+git from odinn https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-git
+
 # UsefullStuff
