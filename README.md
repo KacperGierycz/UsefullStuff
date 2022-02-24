@@ -21,4 +21,9 @@ how to coding interview https://www.freecodecamp.org/news/coding-interviews-for-
 
 git from odinn https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-git
 
+
+Apex https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_variables.htm
+
+Selsforce trailhead https://trailhead.salesforce.com/en
+
 # UsefullStuff
