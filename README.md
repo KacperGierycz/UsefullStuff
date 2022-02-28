@@ -1,6 +1,7 @@
 (Big O cheatsheet)[https://www.bigocheatsheet.com/]
 
 Git light guide FreeCodeCamp https://www.youtube.com/watch?v=4VY0kHqIqyU&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF&index=3
+Writen FCC https://www.freecodecamp.org/news/best-git-tutorial/
 
 BEST SQL https://sqlzoo.net/wiki/SELECT_Quiz
 
