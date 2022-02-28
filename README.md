@@ -1,5 +1,7 @@
 (Big O cheatsheet)[https://www.bigocheatsheet.com/]
 
+Git light guide FreeCodeCamp https://www.youtube.com/watch?v=4VY0kHqIqyU&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF&index=3
+
 BEST SQL https://sqlzoo.net/wiki/SELECT_Quiz
 
 (edureka java q&a)[https://www.edureka.co/blog/interview-questions/java-interview-questions/]
