@@ -33,4 +33,17 @@ Apex https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/la
 
 Selsforce trailhead https://trailhead.salesforce.com/en
 
+Java Streams Exercise
+
+https://www.codingame.com/playgrounds/20782/java-guild-meeting-52018/welcome
+
+https://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
+https://www.geeksforgeeks.org/java-8-stream-tutorial/
+https://howtodoinjava.com/java/stream/java-streams-by-examples/
+https://blog.devgenius.io/15-practical-exercises-help-you-master-java-stream-api-3f9c86b1cf82
+http://binkurt.blogspot.com/2017/10/exercises-to-study-java-stream-api.html
+
+
+
+
 # UsefullStuff
