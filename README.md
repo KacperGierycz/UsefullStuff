@@ -43,6 +43,9 @@ https://howtodoinjava.com/java/stream/java-streams-by-examples/
 https://blog.devgenius.io/15-practical-exercises-help-you-master-java-stream-api-3f9c86b1cf82
 http://binkurt.blogspot.com/2017/10/exercises-to-study-java-stream-api.html
 
+English:
+https://www.englishpage.com/verbpage/simplepresent.html
+https://www.english-grammar.at/worksheets/tenses/tenses.htm
 
 
 
